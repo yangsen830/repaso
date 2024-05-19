@@ -1,4 +1,5 @@
 # Repaso
+**SE PROHIBE EL USO DE SOURCE TREE**
 
 ## TODO:
 Haz fork de este repositorio y trabaja sobre él (los merge los harás en tu propio fork, no en el "original")
